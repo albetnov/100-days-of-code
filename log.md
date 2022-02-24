@@ -16,3 +16,9 @@ about those so i can get used to it.
 
 **Thoughts:** Labels is intresting. This is my first time encounter someting like labels in loops. Need to practice more about labels. Cause, i still have a limited vision of
 the usage of label.
+
+### Day 2: Febuary 24, 2022
+
+**Today's Progress**: Learned about function: callbacks, expression vs declaration, arrow function.
+
+**Thoughts:** Function expression is an awesome feature. Need to find a suitable use case for that later.
