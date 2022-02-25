@@ -19,6 +19,12 @@ the usage of label.
 
 ### Day 2: Febuary 24, 2022
 
-**Today's Progress**: Learned about function: callbacks, expression vs declaration, arrow function.
+**Today's Progress**: Learned about function: callbacks, expression vs declaration, arrow function in Javascript.
 
 **Thoughts:** Function expression is an awesome feature. Need to find a suitable use case for that later.
+
+### Day 3: Febuary 25, 2022
+
+**Today's Progress**: Learned about DevTools debugger, suggested javascript code style, comments placement, mocha test, bdd style of writing test
+
+**Thoughts:** Writting test can really hope development an app faster. But writing a test can also be a pain.
