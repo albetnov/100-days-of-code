@@ -25,6 +25,7 @@ the usage of label.
 
 ### Day 3: Febuary 25, 2022
 
-**Today's Progress**: Learned about DevTools debugger, suggested javascript code style, comments placement, mocha test, bdd style of writing test
+**Today's Progress**: Learned about DevTools debugger, suggested javascript code style, comments placement, mocha test, bdd style of writing test,
+explored about polyfills and transpilers.
 
 **Thoughts:** Writting test can really hope development an app faster. But writing a test can also be a pain.
