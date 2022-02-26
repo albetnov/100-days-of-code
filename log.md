@@ -29,3 +29,9 @@ the usage of label.
 explored about polyfills and transpilers.
 
 **Thoughts:** Writting test can really hope development an app faster. But writing a test can also be a pain.
+
+### Day 4: Febuary 26, 2022
+
+**Today's Progress**: Learned about basic objects and it's ordering system, object's copying reference, object assign, garbage collection, this keyword.
+
+**Thoughts:** `this` keyword boundary is so confusing.
