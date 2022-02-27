@@ -35,3 +35,10 @@ explored about polyfills and transpilers.
 **Today's Progress**: Learned about basic objects and it's ordering system, object's copying reference, object assign, garbage collection, this keyword.
 
 **Thoughts:** `this` keyword boundary is so confusing.
+
+### Day 5: Febuary 27, 2022
+
+**Today's Progress**: Learned about constructor, optional chaining (null safe), symbol
+
+**Thoughts:** I still haven't figured yet when to use constructor function outside of the class. I actually in the middle of understanding object conversion. But, i still blank
+right now. I gotta figure it out tomorrow.
