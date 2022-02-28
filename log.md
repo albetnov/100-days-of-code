@@ -42,3 +42,9 @@ explored about polyfills and transpilers.
 
 **Thoughts:** I still haven't figured yet when to use constructor function outside of the class. I actually in the middle of understanding object conversion. But, i still blank
 right now. I gotta figure it out tomorrow.
+
+### Day 6: Febuary 28, 2022
+
+**Today's Progress**: Learned about object conversion, Primitive Methods, Numbers methods
+
+**Thoughts:** After a fresh start and mind. Object conversion are finally make sense for me.
