@@ -48,3 +48,11 @@ right now. I gotta figure it out tomorrow.
 **Today's Progress**: Learned about object conversion, Primitive Methods, Numbers methods
 
 **Thoughts:** After a fresh start and mind. Object conversion are finally make sense for me.
+
+### Day 7: March 1, 2022
+
+**Today's Progress**: Learned about string methods: like codepoint, substring, finding an index, accessing a specific char, Learned about array and some of it methods like:
+push/pop, shift/unshift, and arrays specific looping.
+
+**Thoughts:** It's been one week. Pretty tough week, but i'll do my best. It's pretty weird everytime you need to make a new array like doing push. You can't do something like
+`array[] = values`. But you need to define the length `array[array.length] = values`.
