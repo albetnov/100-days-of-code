@@ -56,3 +56,9 @@ push/pop, shift/unshift, and arrays specific looping.
 
 **Thoughts:** It's been one week. Pretty tough week, but i'll do my best. It's pretty weird everytime you need to make a new array like doing push. You can't do something like
 `array[] = values`. But you need to define the length `array[array.length] = values`.
+
+### Day 8: March 2, 2022
+
+**Today's Progress**: Learned about more most used arrays object, iterator, and how to manually use iterator or explicitly call it
+
+**Thoughts:** Array methods is a lot. At this far i still barely understand about how to use `reduce()`.
