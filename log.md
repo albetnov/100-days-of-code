@@ -62,3 +62,10 @@ push/pop, shift/unshift, and arrays specific looping.
 **Today's Progress**: Learned about more most used arrays object, iterator, and how to manually use iterator or explicitly call it
 
 **Thoughts:** Array methods is a lot. At this far i still barely understand about how to use `reduce()`.
+
+### Day 9: March 3, 2022
+
+**Today's Progress**: Learned about map datatype, set datatype, Object entity and fromEntity, weakMap datatype, weakSet datatype and their usage, `Object.keys(obj)` to get a
+key, `Object.values(obj)` to get a values, and `Object.entries(obj)` to get an entries,
+
+**Thoughts:** I was suprised since i never met this kinds of data types before... It can come in handy.
