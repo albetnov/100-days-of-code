@@ -66,6 +66,13 @@ push/pop, shift/unshift, and arrays specific looping.
 ### Day 9: March 3, 2022
 
 **Today's Progress**: Learned about map datatype, set datatype, Object entity and fromEntity, weakMap datatype, weakSet datatype and their usage, `Object.keys(obj)` to get a
-key, `Object.values(obj)` to get a values, and `Object.entries(obj)` to get an entries,
+key, `Object.values(obj)` to get a values, and `Object.entries(obj)` to get an entries.
 
 **Thoughts:** I was suprised since i never met this kinds of data types before... It can come in handy.
+
+### Day 10: March 3, 2022
+
+**Today's Progress**: Learned about array, object, nested destruction, and learned about smart function parameters, learned about date, and use case methods usage to increase
+performance
+
+**Thoughts:** I somehow need to very careful when it comes to choosing date method. Since it can impact performance...
