@@ -70,9 +70,15 @@ key, `Object.values(obj)` to get a values, and `Object.entries(obj)` to get an e
 
 **Thoughts:** I was suprised since i never met this kinds of data types before... It can come in handy.
 
-### Day 10: March 3, 2022
+### Day 10: March 4, 2022
 
 **Today's Progress**: Learned about array, object, nested destruction, and learned about smart function parameters, learned about date, and use case methods usage to increase
 performance
 
 **Thoughts:** I somehow need to very careful when it comes to choosing date method. Since it can impact performance...
+
+### Day 11: March 5, 2022
+
+**Today's Progress**: Learned about JSON, methods stringify and it's arguments, methods parse and it's arguments, function recursion.
+
+**Thoughts:** It's really important to decide which loop to use. Since function recursion could be heavy if we not analyzed the flow first or optimized the code.
