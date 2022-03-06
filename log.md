@@ -82,3 +82,9 @@ performance
 **Today's Progress**: Learned about JSON, methods stringify and it's arguments, methods parse and it's arguments, function recursion.
 
 **Thoughts:** It's really important to decide which loop to use. Since function recursion could be heavy if we not analyzed the flow first or optimized the code.
+
+### Day 12: March 6, 2022
+
+**Today's Progress**: Learned about rest parameters, scope and closure, lexical environment, V8 Garbage Collection side effect in debugger.
+
+**Thoughts:** 
