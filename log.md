@@ -87,4 +87,6 @@ performance
 
 **Today's Progress**: Learned about rest parameters, scope and closure, lexical environment, V8 Garbage Collection side effect in debugger.
 
-**Thoughts:** 
+### Day 13: March 7, 2022
+
+**Today's Progress**: Learned about var, global object, function object, NFE.
