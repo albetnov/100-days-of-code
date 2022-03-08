@@ -90,3 +90,10 @@ performance
 ### Day 13: March 7, 2022
 
 **Today's Progress**: Learned about var, global object, function object, NFE.
+
+### Day 14: March 8, 2022
+
+**Today's Progress**: Learned about `new` function syntax, set timeout and interval, Scheduling with setTimeout & setInterval, nested timeout & zero delay, NodeJS specific
+immediate call.
+
+
