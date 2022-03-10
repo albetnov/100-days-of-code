@@ -96,4 +96,13 @@ performance
 **Today's Progress**: Learned about `new` function syntax, set timeout and interval, Scheduling with setTimeout & setInterval, nested timeout & zero delay, NodeJS specific
 immediate call.
 
+### Day 15: March 9, 2022
 
+**Today's Progress**: Learned about decorators and forwarding, call and apply
+
+**Thoughts:**: Right now i only understand a little about decorators and forwading. Need to see another references tommorow.
+
+### Day 16: March 10, 2022
+
+**Today's Progress**: Manage to learned more about decorators and forwading, learned about function bindings, revisit arrow function to learn about lexical `this` and
+`arguments`.
