@@ -106,3 +106,7 @@ immediate call.
 
 **Today's Progress**: Manage to learned more about decorators and forwading, learned about function bindings, revisit arrow function to learn about lexical `this` and
 `arguments`.
+
+### Day 17: March 10, 2022
+
+**Today's Progress**: Learned about property descriptors/flags of object properties: define and getOwnProperty, Property Accessor: Getter and setter
