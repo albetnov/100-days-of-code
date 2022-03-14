@@ -113,4 +113,15 @@ immediate call.
 
 ### Day 18: March 12, 2022
 
-**Today's Progress**: Learned about prorotypal, and function prototype. `__proto__`, `prototype`, and Object's prototype.
+**Today's Progress**: Learned about prototypal, and function prototype. `__proto__`, `prototype`, and Object's prototype.
+
+### Day 19: March 13, 2022
+
+**Today's Progress**: Learned about Native Prototype and Prototype Object Methods.
+
+### Day 20: March 14, 2022
+
+**Today's Progress**: Learned about class: Getter & Setter, Constructor, Computed names, class fields, expressio, and syntax. Learned about Class Inheritance: extends, super,
+method overriding, constructor overriding.
+
+**Thoughts**: Still need to pay attention while overriding constructor.
