@@ -125,3 +125,8 @@ immediate call.
 method overriding, constructor overriding.
 
 **Thoughts**: Still need to pay attention while overriding constructor.
+
+### Day 21: March 15, 2022
+
+**Today's Progress**: Learned about visibility: Term of "_", private, read-only. Learned about static method or properties, extending built-in class like Array, etc. Learned 
+about instanceOf, Object Prototype toString, Class Mixing.
