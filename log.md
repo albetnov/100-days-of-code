@@ -130,3 +130,7 @@ method overriding, constructor overriding.
 
 **Today's Progress**: Learned about visibility: Term of "_", private, read-only. Learned about static method or properties, extending built-in class like Array, etc. Learned 
 about instanceOf, Object Prototype toString, Class Mixing.
+
+### Day 22: March 16, 2022
+
+**Today's Progress**: Learned about Try Catch, Throw, Global Catch, and Custom Error.
