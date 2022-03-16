@@ -133,4 +133,4 @@ about instanceOf, Object Prototype toString, Class Mixing.
 
 ### Day 22: March 16, 2022
 
-**Today's Progress**: Learned about Try Catch, Throw, Global Catch, and Custom Error.
+**Today's Progress**: Learned about Try Catch and Finally, Throw, Global Catch, and Custom Error.
