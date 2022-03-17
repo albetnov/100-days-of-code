@@ -134,3 +134,7 @@ about instanceOf, Object Prototype toString, Class Mixing.
 ### Day 22: March 16, 2022
 
 **Today's Progress**: Learned about Try Catch and Finally, Throw, Global Catch, and Custom Error.
+
+### Day 23: March 17, 2022
+
+**Today's Progress**: Learned about callbacks: callback in callback, and pyramid of doom problem. Learned about Promise: then, catch, finally, resolve, reject, and chained method.
