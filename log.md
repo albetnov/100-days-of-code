@@ -138,3 +138,7 @@ about instanceOf, Object Prototype toString, Class Mixing.
 ### Day 23: March 17, 2022
 
 **Today's Progress**: Learned about callbacks: callback in callback, and pyramid of doom problem. Learned about Promise: then, catch, finally, resolve, reject, and chained method.
+
+### Day 24: March 19, 2022
+
+**Today's Progress**: Due to power outage that happen yesterday. Here is a list of what i learnt: Promise Error Handling, Promise API. Promisification.
