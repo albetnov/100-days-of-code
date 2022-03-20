@@ -142,3 +142,7 @@ about instanceOf, Object Prototype toString, Class Mixing.
 ### Day 24: March 19, 2022
 
 **Today's Progress**: Due to power outage that happen yesterday. Here is a list of what i learnt: Promise Error Handling, Promise API. Promisification.
+
+### Day 25: March 19, 2022
+
+**Today's Progress**: Learned about Micro Task, Async and Await, Generator.
